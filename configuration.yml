@@ -1,0 +1,5 @@
+applications:
+
+ skeleton-acceptance-tests:
+  repo: placeholder
+  branch: master
