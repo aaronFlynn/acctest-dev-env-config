@@ -1,5 +1,5 @@
 applications:
 
  skeleton-acceptance-tests:
-  repo: placeholder
+  repo: git@github.com:LandRegistry/skeleton-acceptance-tests.git
   branch: master
