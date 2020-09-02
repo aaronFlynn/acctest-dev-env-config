@@ -2,4 +2,4 @@ applications:
 
  skeleton-acceptance-tests:
   repo: git@github.com:LandRegistry/skeleton-acceptance-tests.git
-  branch: master
+  branch: main
